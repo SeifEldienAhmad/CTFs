@@ -21,10 +21,11 @@ The current walkthrough for the **RootMe** room covers:
 ### Suggested Repository Structure
 
 As you add more files, I recommend organizing them like this:
-.
-├── README.md
-└── TryHackMe/
-    └── RootMe/
-        ├── RootMe.md
+ 
+    .
+    ├── README.md
+    └── TryHackMe/
+        └── RootMe/
+            ├── RootMe.md
 
 ```
