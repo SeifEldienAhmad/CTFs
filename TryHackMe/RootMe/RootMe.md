@@ -20,6 +20,7 @@ Then I checked the fourth task: "Find directories on the web server using the Go
 5. Through the results of the gobuster, I answered the fifth task: "What is the hidden directory?"
 
 here I finished my recon phase.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 --> In this phase, my aim was to gain a shell on the server. I found an upload page through the fuzzing using the gobuster and I found that it permit the upload of ```.php5``` files. I searched pentestkey for a php reverse-shell payload. I downloaded it, edited it to put my IP and my recieving port then I turned my netcat to listen:
