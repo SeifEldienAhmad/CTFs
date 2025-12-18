@@ -1,4 +1,4 @@
-    <h>--------------------------------------------------==***Root Me WriteUP***==----------------------------------</h>
+<h>--------------------------------------------------==***Root Me WriteUP***==----------------------------------</h>
 
 --> In this room we started after deploying the machine, our first step is the **reconnaissance**:
     1. I ran nmap on the given IP to check open ports
