@@ -6,7 +6,7 @@ A collection of technical writeups for CTF challenges and security labs. Each en
 
 | Platform | Room / Challenge | Category | Difficulty | Writeup |
 | --- | --- | --- | --- | --- |
-| **TryHackMe** | RootMe | Web / Linux | Easy | [RootMe.md](https://github.com/SeifEldienAhmad/CTFs/TryHackMe/RootMe/RootMe.md) |
+| **TryHackMe** | RootMe | Web / Linux | Easy | [RootMe.md](https://github.com/SeifEldienAhmad/CTFs/blob/main/TryHackMe/RootMe/RootMe.md) |
 
 ### 🛠️ Key Skills Covered (RootMe)
 
